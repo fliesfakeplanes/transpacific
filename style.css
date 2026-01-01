@@ -1,19 +1,18 @@
 /* =========================
-   Wiki Jet – Global Styles
+   Transpacific – Global Styles
    Shared across all pages
    ========================= */
 
 :root {
-  /* Wiki Jet livery colors */
-  --orange: #F36A21;
-  --yellow: #FDB515;
-  --teal: #16B6C6;
-  --blue: #0B5EA8;
+  --primary: #1D2F5C;        /* Main brand navy */
+  --primary-dark: #233E6C;   /* Header / footer / deep sections */
+  --accent: #52B5E3;         /* Buttons / highlights */
+  --accent-light: #71C2E8;   /* Gradients / hovers */
 
-  --bg: #f6f9fc;
-  --surface: #ffffff;
-  --text: #1e2433;
-  --muted: #6b728a;
+  --bg: #f4f7fb;             /* Soft cool background */
+  --surface: #ffffff;        /* Cards / panels */
+  --text: #1E2433;           /* Body text */
+  --muted: #5f6b7a;          /* Subtext */
 }
 
 * {
